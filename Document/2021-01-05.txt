@@ -1,0 +1,19 @@
+          
+
+     Report for 2021-01-05
+ 
+
+  1) Created a repository in the git hub so that we can store and upoload the daily work there 
+  2) Learnt how to create the branches in the coressponding repository.
+  3) Learnt abot following commands
+        (a.)git clone git@github.com:shruti-cybercomcreation/cybercomcreation.git 
+                using this command we will connect the local machine with git hub repository
+        (b.) git add <file name>
+                using this command we can include codes and other files in the repository 
+        (c.) git commit -m branch name origin/main
+               using this command we save the work or upload the code in the local repository
+        (d.) gir push -b origin maim(or branchname)
+                using this command we upload the work in git hub and after we are able to see the modiefied changes in the github
+        (e.) git merge 
+              using this we can merge branches
+   4) We also learnt the uses of github and how are we going to use it in our work. 
