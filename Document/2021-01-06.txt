@@ -1,0 +1,17 @@
+
+
+    REPORT FOR 2021-01-06
+
+1)Learnt about the following commands
+	a. git log
+	      gives the last commit name (address)
+
+	b. git revert -m 1 commit name(address)
+	      deletes the process untill the last commit
+
+	c. git difference
+	      gives the difference between the two codes or what are the modifications that are made in the code as                           comapared to the previous one.
+
+2.)Created two branches made changes in one then merged it with the second and the the second with the main. By doing this the commit address of both the branches will be same. 
+
+3)Revised yesterday tasks . 
