@@ -1,0 +1,26 @@
+
+  				REPORT FOR 2021-01-07
+1)Learnt the below commands 
+	(a.) Cherrypick
+                             - Avoid it when possible 
+                             - Used when we to categorise the files
+                 (b.)Reset soft
+                          -To undo last commit and bring file to staging area 
+	(c.)Reset hard
+	      -To undo last commit and remove file from the staging area as well
+	      -Avoid when possible
+	(d.)Reset
+                         -Used when we want to checkout to other branch without modifying of loss of any file (code)
+                    (e.)git show
+                        -Gives the list of things done like addition or deletion of file
+	(f.)forward and fast forward 
+	     - git throws an error if occured while merging while in case of fast forward the git will ignore the error and will combine the files 
+	(g.)git squash
+         	     -cleans the history on github
+
+2)If we close the command directly in the half the the git may not know what to do and hence the crash of repo will occur to solve such an issue use 
+   "git/index.lock"
+
+3)meld tool is a software where we can decode the graph and can see the history of the work done in the github
+
+4)double hyphen refers file and no hyphen refers branch if the name of the file and branch are same.       		 
