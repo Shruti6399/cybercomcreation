@@ -1,0 +1,22 @@
+   
+				REPORT FOR 2021-01-08
+
+1) Learnt how to make html webpage using javascript.
+2)Completed coding challanges
+	- finding amd comparing BMI.
+	-finding the avg and find the winner.
+3)HTML tags 
+	(a.) <p></p>
+	       used for creating paragraphs.Other commands such as <pre> , <code> , <span> . 
+	(b.)<nbsp>
+	       used for managing space between texts
+	(c.)<tr></tr>
+	       used for creating table row
+	(d.)<td></td>
+ 	        used for filling table data
+	(e.)<th></th>
+	        used for creating table header
+4)Key points
+      -Always start sectioning your html with h1 
+      -h1 header should not be used for making the headers bold.
+      -Property defines the behaviour tag. 	         	
